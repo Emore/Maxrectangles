@@ -1,0 +1,6 @@
+An implementation of the Staircase algorithm for finding maximal rectangles in two-dimensional point sets. Finds all maximal rectangles (http://en.wikipedia.org/wiki/Largest_empty_rectangle) in O(nm) time.
+
+Relevant paper:
+J. Edmonds et al., Mining for Empty Rectangles in Large Data Sets, Lecture Notes in Computer Science, 2001, Volume 1973/2001, p.174-188
+
+To run the interfaces Point and Rectangle need to be implemented appropriately. Also, consider passing container width/height to the method.
